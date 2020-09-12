@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: url(https://eskipaper.com/images/black-background-wallpaper-1.jpg) ;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.game-over {
+	font-family: cursive;
+	color: white;
+}
